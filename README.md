@@ -98,7 +98,7 @@ We recommend the following:
 1. Inventory Planning:
    - Continue focusing on the $2k–$4k price range to attract cost-conscious buyers.
    - Maintain a balance of affordable vehicles with low mileage to appeal to both price and quality seekers.
-   - 
+ 
 2. Targeted Procurement:
    - Prioritize Ford and Chevrolet for stock replenishment due to higher profitability.
    - Evaluate conditions of high-mileage but high-priced vehicles for brand-based premium pricing strategy.
@@ -109,7 +109,7 @@ We recommend the following:
 5. Brand-Level Promotions:
    - Promote Toyota, Ford, and Chevrolet heavily — their popularity means faster sales turnover.
    - Consider extended warranty or service packages for these brands to boost sales volume.
-owv-izmj-kcg
+
 6. Data-Driven Pricing:
    - Implement a pricing model based on mileage, brand, and color popularity to optimize profit while staying competitive.
 
