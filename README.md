@@ -9,7 +9,7 @@ The Car Inventory Analysis project is designed to explore and analyze key insigh
 - Visualize the number of cars available by brand and color. 
 - Identify important insights that can help in pricing and inventory management.
 
-## Expected Outcomes 
+### Expected Outcomes 
 
 - A comprehensive understanding of the dataset through summary statistics. 
 - Clear visual representations of car price distribution, mileage vs. price trends, and car counts by brand and color. 
